@@ -40,6 +40,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
  ```
 # code block
-print '3 backticks or'
+$ print '3 backticks or'
 print 'indent 4 spaces'
 ``` 
