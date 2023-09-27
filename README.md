@@ -25,4 +25,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </details>
 
+# Would you like to add a badge like this one: please replace with alt text?
+- Badge that links to a website (see also https://shields.io/):
 [![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
+-Badge without link:
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
